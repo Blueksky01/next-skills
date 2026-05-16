@@ -1,3 +1,4 @@
 # Claude Code Instructions
 
-See [AGENTS.md](./AGENTS.md) for all contribution guidelines.
+Project rules: see root `CLAUDE.md` (one level up).
+Contribution rules: see [AGENTS.md](./AGENTS.md).
